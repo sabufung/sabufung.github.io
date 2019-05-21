@@ -1,0 +1,34 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+            }
+        ]
+    },
+    {
+        "family": "SocialIcons",
+        "fonts": [
+            {
+                "asset": "icons/SocialIcons.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Montserrat Medium",
+        "fonts": [
+            {
+                "asset": "fonts/Montserrat-Medium.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Montserrat Thin",
+        "fonts": [
+            {
+                "asset": "fonts/Montserrat-Thin.ttf"
+            }
+        ]
+    }
+]
